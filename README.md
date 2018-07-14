@@ -9,6 +9,3 @@ What changed:
 Things todo:
 1. Replace LSTM with GRU.
 2. Add F1 score and confusion matrix for accuracy.
-
-# Data
-For test data, please contact 77286956@qq.com
