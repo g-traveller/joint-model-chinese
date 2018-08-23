@@ -4,4 +4,5 @@ __pycache__
 venv
 data
 models
-idea
+.idea/
+**/.DS_Store
