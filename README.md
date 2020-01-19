@@ -1,5 +1,4 @@
 # NLU Joint model for chinese with word embedding
-implementation base on: https://github.com/DSKSD/RNN-for-Joint-NLU
 
 What changed:
 1. Fix some bug in source.
