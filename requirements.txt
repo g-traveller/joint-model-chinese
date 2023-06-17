@@ -3,5 +3,5 @@ torchvision==0.2.1
 gensim==3.4.0
 numpy==1.22.0
 jieba==0.39
-websockets==5.0.1
+websockets==9.1
 gensim==3.4.0
